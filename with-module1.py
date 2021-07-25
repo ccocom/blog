@@ -18,5 +18,5 @@ if __name__ == '__main__':
 
     # github.delete_repo('ccocom/blog')
 
-    github.get_repos() 
+    # github.get_repos() 
 
